@@ -1,0 +1,39 @@
+﻿body {
+}
+
+/* General styling - used accross whole site*/
+
+.bg-grey {
+    background-color: #353535;
+}
+
+.bg-black {
+    background-color: #000000;
+}
+
+.text-yellow {
+    color: #ffea3b;
+}
+
+/* Header elements */
+
+.header-row {
+    padding: 3px;
+}
+
+#searchInput {
+    border: none;
+    color: black;
+}
+
+.navbar {
+    background-color: transparent;
+    border: none;
+    color: #ffffff;
+}
+
+
+
+.nav li a:hover {
+    color: #ffea3b !important;
+}
